@@ -30,7 +30,7 @@ Construire un CNN capable de classer les images du dataset **CIFAR-10** en 10 cl
 ## Installation et exécution
 
 ```bash
-git clone https://github.com/ZeynaDieng/cifar10-cnn.git
+https://github.com/ZeynaDieng/cifar10-cnn-classification.git
 cd cifar10-cnn-classification 
 jupyter notebook cifar10_cnn1.ipynb
 ```
