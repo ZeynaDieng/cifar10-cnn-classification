@@ -1,7 +1,6 @@
 # Classification d’images CIFAR-10 avec CNN
 
-Projet réalisé dans le cadre du cours de Deep Learning, Université Thomas Sankara.
-
+Projet réalisé dans le cadre du cours de Deep Learning.
 ## Objectif
 
 Construire un CNN capable de classer les images du dataset **CIFAR-10** en 10 classes.
